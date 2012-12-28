@@ -1,1 +1,7 @@
-This contains the source code for the custom Lists, for now it is only GridView and ListView. The options that are available is a bouncing effect, or a kinectic effect.
+Custom List for Android:
+* ListView
+* GridView
+
+with the following effects:
+* Kinetic rotation of items in list top / bottom at list to identify that you cannot scroll further up or down
+* empty space in list top / bottom at list to identify that you cannot scroll further up or down
