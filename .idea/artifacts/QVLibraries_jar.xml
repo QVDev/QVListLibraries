@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="QVLibraries:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/QVLibraries_jar</output-path>
+    <root id="archive" name="QVLibraries.jar">
+      <element id="module-output" name="QVListLibraries" />
+    </root>
+  </artifact>
+</component>
